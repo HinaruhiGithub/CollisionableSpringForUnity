@@ -1,0 +1,2 @@
+# CollisionableSpringForUnity
+ばねの張力と垂直な方向にあたり判定をもってるような物理拡張したいな
